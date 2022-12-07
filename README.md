@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/jvr1D9H.jpg)
+![Imgur](https://i.imgur.com/UXEzj8S.png)
 <h1 align="center">Hey there 🖖🏻 this is Esteban!</h1>
 <h3 align="center">I'm passionate about programming and web 🖥 / native📱 development.</h3>
 
