@@ -1,30 +1,56 @@
-![Imgur](https://i.imgur.com/UXEzj8S.png)
-<h1 align="center">Hey there 🖖🏻 this is Esteban!</h1>
-<h3 align="center">I'm passionate about programming and web 🖥 / native📱 development.</h3>
+# Hey there 👋 I'm Esteban Escobar
 
-<img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" >
+Senior Mobile Engineer focused on building scalable mobile and web applications, leading engineering initiatives, and helping teams adopt AI-powered development workflows.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=estebancoder2054&label=Profile%20views&color=0e75b6&style=plastic" alt="estebancoder2054" /> </p>
+## 🚀 About Me
 
-<p align="left"> <a href="https://twitter.com/estebescobar" target="blank"><img src="https://img.shields.io/twitter/follow/estebescobar?logo=twitter&style=for-the-badge" alt="estebescobar" /></a> </p>
+- 📱 Senior React Native Engineer with experience delivering production applications at scale
+- 🌐 Building modern web experiences with React, Next.js, TypeScript, and Node.js
+- 🏗️ Interested in Software Architecture, System Design, and Technical Leadership
+- 🤖 Exploring AI Enablement, AI-assisted development, agentic workflows, and developer productivity
+- ⚡ Building side projects, developer tools, and AI-powered solutions
+- 🇨🇴 Based in Medellín, Colombia
 
-- 🔭 I’m currently working on [Mesh Communities](https://www.meshcommunities.us/)
+## 💡 Current Focus
 
-- 🌱 I’m currently learning **iOS development (Swift)**
+- AI Enablement for engineering teams
+- Claude Code, Codex, Cursor, and AI-native development workflows
+- Mobile architecture and platform scalability
+- Developer Experience (DX) and engineering productivity
+- Modern React Native ecosystems
+- LLM integrations and practical AI applications
 
-- 👯 I’m looking to collaborate on **Open source projects**
+## 🛠️ Technologies
 
-- 👨‍💻 You can take a look at my portfolio [https://esteban-dev-portfolio.netlify.app/](https://esteban-dev-portfolio.netlify.app/)
+### Mobile
+React Native • TypeScript • Android • iOS • BLE • Firebase
 
-- 💬 Ask me about **JavaScript, React, React Native, GraphQL**
+### Frontend
+React • Next.js • JavaScript • TypeScript • Tailwind CSS
 
-- 📫 How to reach me **esteban-escobar1111@hotmail.com**
+### Backend
+Node.js • REST APIs • Firebase • GraphQL
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/estebescobar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="estebescobar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/estebanescobar2054/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/estebanescobar2054/" height="30" width="40" /></a>
-</p>
+### Architecture & Leadership
+System Design • Technical Leadership • Software Architecture • Engineering Best Practices
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### AI
+Claude Code • OpenAI APIs • Prompt Engineering • AI Workflows • AI Enablement
+
+## 🌱 What I'm Building
+
+- AI-powered developer workflows
+- Mobile and web applications
+- Developer productivity tools
+- Automation and AI integrations
+- Open-source experiments
+
+## 📫 Connect With Me
+
+- LinkedIn: [your-linkedin]
+- X/Twitter: [your-twitter]
+- Portfolio: [your-portfolio]
+
+---
+
+> "Great software comes from combining solid engineering fundamentals with the right tools. AI is becoming one of those tools."
