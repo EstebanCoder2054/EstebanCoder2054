@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/esteban_banner_2026.png" width="100%" alt="Esteban Escobar Banner"/>
+</div>
+
 # Hey there 👋 I'm Esteban Escobar
 
 Senior Mobile Engineer focused on building scalable mobile and web applications, leading engineering initiatives, and helping teams adopt AI-powered development workflows.
@@ -47,10 +51,5 @@ Claude Code • OpenAI APIs • Prompt Engineering • AI Workflows • AI Enabl
 
 ## 📫 Connect With Me
 
-- LinkedIn: [your-linkedin]
-- X/Twitter: [your-twitter]
-- Portfolio: [your-portfolio]
-
----
-
-> "Great software comes from combining solid engineering fundamentals with the right tools. AI is becoming one of those tools."
+- LinkedIn: [https://www.linkedin.com/in/estebanescobar2054/?skipRedirect=true]
+- Email: estebandev25@gmail.com
